@@ -1,4 +1,5 @@
-Codebook
+# CodeBook
+
 Summary of tidy data set:
 •	Only extracted the measurements on the mean and standard deviation for each measurement. 
 o	mean(): Mean value
