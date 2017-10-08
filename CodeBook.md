@@ -1,10 +1,9 @@
 Codebook
 
 Summary of tidy data set:
-
 •	Only extracted the measurements on the mean and standard deviation for each measurement. 
-  o	mean(): Mean value
-  o	std(): Standard deviation
+  	o	mean(): Mean value
+  	o	std(): Standard deviation
 •	Contains 180 rows and 82 columns. 
 •	Each measurement is averaged based on each subject and each activity.
 •	Activity column has 6 types as listed below.
