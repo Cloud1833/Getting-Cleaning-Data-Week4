@@ -1,12 +1,11 @@
-# CodeBook
+# CodeBook: Summary of tidy data set
 
-Summary of tidy data set:
 
 •	Only extracted the measurements on the mean and standard deviation for each measurement.
 
-  o	mean(): Mean value
+  •	mean(): Mean value
 
-  o	std(): Standard deviation
+  •	std(): Standard deviation
   
 •	Contains 180 rows and 82 columns. 
 
@@ -20,7 +19,7 @@ Summary of tidy data set:
 5.	WALKING_DOWNSTAIRS
 6.	WALKING_UPSTAIRS
 
-Measurements (from column4 and onwards): 
+• Measurements (from column4 and onwards): 
 1.	activityType
 2.	subjectID
 3.	activityID
